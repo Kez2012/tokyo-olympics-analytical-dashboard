@@ -6,6 +6,9 @@ The modern Olympic Games or Olympics are the leading international sporting even
 An interactive report is created using Power BI to visually display the details regarding participation of individual players, teams and their coaches. Additionally, the country from which the player comes from and the sporting event they participate in enables a richer understanding of the Tokyo Olympics. Two dashboards are created- one featuring the overall analysis of the Tokyo Olympics and the other is country specific participation and performance of their players.
 
 
+
 ![overall-stats-tokyo-olympics](images/overall-stats.png)
+
+
 
 ![country-stats-tokyo-olympics](images/country-stats.png)
