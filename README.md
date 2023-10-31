@@ -8,7 +8,15 @@ An interactive report is created using Power BI to visually display the details 
 
 
 ![overall-stats-tokyo-olympics](images/overall-stats.png)
-
-
-
+   
+     
 ![country-stats-tokyo-olympics](images/country-stats.png)
+
+
+### Analysis:
+
++ Most participants, around 20% took part in Athletics, followed by team sporting events like Swimming, Football, Rowing, Hockey, etc.  
++ Popular team sports include Swimming, Athletics, Cycling Track, Archery, Fencing among others. 
++ Trade off between participation rate and winning rate
++ Countries winning more medals in general, have higher proportion of gold medals as compared to other countries which have higher proportions of either silver or bronze medals.
++ The gender gap has almost disappeared with 48% participants being females.
